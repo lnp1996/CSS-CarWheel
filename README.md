@@ -7,7 +7,7 @@ English:
 <br>
 CSS style car wheel
 <br>
-Gradually update some useful custom CSS effect style wheels
+Gradually update some useful and universal custom CSS effect style wheels
 <br>
 Simple functions are directly placed in the Projectsh tab 
 
